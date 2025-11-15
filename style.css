@@ -3,7 +3,7 @@
 * { box-sizing: border-box; }
 
 body {
-  background-color: #516dff;
+  background-color: green;
   color: #fff;
   font-family: 'Press Start 2P', sans-serif;
   height: 100vh;
@@ -113,3 +113,4 @@ body {
 }
 
 .insect.caught { transform: translate(-50%, -50%) scale(0); }
+
